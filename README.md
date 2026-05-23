@@ -1,0 +1,2 @@
+# asterisk-configen
+Asteriskのconfigを生成して楽に設定できるようなツール
